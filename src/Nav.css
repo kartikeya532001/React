@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.NavBar {
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+  
+
+}
+
+.NavBar a {
+  margin-left: 12%;
+  color: #377bba;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.NavBar a:hover {
+  background-color: rgb(138, 62, 62);
+  color: black;
+}
+
+.NavBar a.active {
+  background-color: #2d077e;
+  color: white;
+}
+
