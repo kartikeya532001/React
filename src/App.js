@@ -6,8 +6,10 @@ import About from './About';
 import Data from './teamd';
 import Team from './Team';
 import './Team.css';
+import './Hostel.css';
 import Hostel from './Hostel';
 import HData from './HostelD';
+import Footer from './Footer';
 
 function ncard (val) {
   return (
@@ -24,7 +26,8 @@ function ncards (val) {
     <Hostel
       name={val.name}
       img={val.img}
-      course={val.course}
+      price={val.price}
+      Distance={val.Distance}
     />
   );
 
@@ -35,14 +38,18 @@ function App() {
    <Nav />
    <Home />
    <About />
+   
    <div className='team'>
         <h1> Our Team</h1>
         </div>
         {Data.map(ncard)}
-        <div className='team'>
+        <div className='hostel'>
         <h1> Hostels</h1>
         </div>
         {HData.map(ncards)}
+        <Footer />
+
+
  </>
   );
 }

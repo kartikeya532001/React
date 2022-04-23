@@ -1,24 +1,65 @@
 const HData = [
     {
-        name: 'Kartikeya Narain Khanna',
+        name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        course: 'CSE DevOps'
+        price: '120000PA',
+        Distance: '5Km'
     },
     {
-        name: 'Tanmay Kanwar',
+        name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        course: 'CSE DevOps'
+        price: '120000PA',
+        Distance: '5Km'
     },
     {
-        name: 'Pratham Tyagi',
+        name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        course: 'CSE DevOps'
+        price: '120000PA',
+        Distance: '5Km'
     },
     {
-        name: 'Abhinav Gupta',
+        name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        course: 'CSE CSF'
+        price: '120000PA',
+        Distance: '5Km'
     },
+    {
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: '120000PA',
+        Distance: '5Km'
+    },
+    {
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: '120000PA',
+        Distance: '5Km'
+    },
+    {
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: '120000PA',
+        Distance: '5Km'
+    },
+    {
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: '120000PA',
+        Distance: '5Km'
+    },
+    {
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: '120000PA',
+        Distance: '5Km'
+    },
+    {
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: '120000PA',
+        Distance: '5Km'
+    },
+    
 ];
 
 export default HData;

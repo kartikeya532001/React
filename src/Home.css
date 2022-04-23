@@ -2,22 +2,35 @@
     width: 100%;
     margin-top: 10px;
     min-height: 650px;
-    background: #343F4F;
+    background: black;
+    object-fit: cover;
+
   }
   
-  
+ .home p {
+
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 800;
+  text-transform: uppercase;
+  justify-content: center;
+  margin-top: 80px;
+  text-shadow: 0 0 20px blue;
+ } 
   
   .home .static {
     margin-left: 2%;
     color: #fff;
     font-size: 50px;
     font-weight: 400;
+    margin-top: 70px;
   }
   .home .dyanmic {
     margin-left: 1.5%;
   }
   .home .dyanmic li {
-     color: #FC6D6D; 
+     color: #377bba; 
      font-size: 50px;
      font-weight: 500;
      list-style: none;
@@ -31,9 +44,10 @@
   position: absolute;
   left: 0;
   height: 100%;
-  background:#343F4F ;
+  background-color: black;
+  /* opacity: .4; */
   width: 100%;
-  /* //border-color: 2px solid #4b0e0e; */
+  border-color: 2px solid #4b0e0e;
   animation: typing 1.5s steps(10) infinite;
   }
   

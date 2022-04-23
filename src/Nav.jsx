@@ -11,7 +11,7 @@ function Nav() {
         <a href='#about'>About Us</a>
         <a href='#team'>Team</a>
         <a href='#hostel'>Hostels</a>
-        <a href='#contact'>Contact Us</a>
+        {/* <a href='#contact'>Contact Us</a> */}
 
      </div>
    </>

@@ -1,4 +1,4 @@
-.team {
+.hostel {
     margin-top: 2%;
     text-align: center;
     position: relative;
@@ -10,13 +10,13 @@
     
  }
 
- .cards {
+ .hcards {
      width: 100%;
      height: auto;
  }
 
- .card {
-     margin: 1.85%;
+ .hcard {
+     margin: 5%;
      transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
     background-color: #fff;
     width: 21.25%;
@@ -25,40 +25,45 @@
     box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
     float: left;
     }
-    .card:hover {
+    .hcard:hover {
         box-shadow: 0px 30px 17 px -8px rgba(0, 0, 0, 0.1);
         transform: scale(1.05,1.05);
     }
 
-    .card_img {
+    .hcard_img {
         width: 100%;
         height: 235px;
         border-top-left-radius:12px;
         border-top-right-radius: 12px;  
            
     }
-    .card_info {
+    .hcard_info {
         background-color: #fff;
         border-bottom-left-radius: 12px;
         border-bottom-right-radius: 12px;
         padding: 16px 24px 24px 24px;
         background-color: #fff;
+      
     }
 
-    .card_category {
+    .hcard_category {
         font-family: "Raleway", sans-serif;
         text-transform: uppercase;
-        font-size: 13px;
+        font-size: 25px;
         letter-spacing: 2px;
-        font-weight: 500;
-        color: #868686;
+        font-weight: 800;
+        color:black;
         background-color: #fff;
     }
 
-    .card_title {
+    .hcard_title {
+        display: flex;
         margin-top: 5px;
         margin-bottom: 10px;
         font-family: "Raleway", sans-serif;
         background-color: #fff;
         text-transform: capitalize;
+        color:  #868686;
+        
     }
+ 
