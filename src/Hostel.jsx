@@ -1,30 +1,33 @@
 import React from 'react';
 import './Hostel.css';
-
-
-const mar = {
-    marginLeft:'130px',
-}
+import { Switch ,Route } from 'react-router-dom';
+import Campushostel from './Campushostel';
+import { Router } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Hostel (props) {
     return(
         <>
       
-   {/* <a href=''> */}
+        <Link to = '/Campushostel'>
         <div className='hcards'>
             <div className='hcard'>
                 <img src = {props.img} alt='pic1' className='hcard_img' />
                 <div className='hcard_info'>
                     <span className='hcard_category'>{props.name}</span>
-                    <h3 className='hcard_title'> {props.price} 
-                    <span style={mar}>{props.Distance}</span> </h3>
-             
+                    <h3 className='hcard_title'> {props.price} </h3>
+                   
                 </div>
             </div>
         </div>
-        {/* </a> */}
+        </Link>
+       
+
+       
         </>
     );
 } 
 
+
+ 
 export default Hostel ;

@@ -11,7 +11,7 @@ const Data = [
     },
     {
         name: 'Pratham Tyagi',
-        img:'/img/KNK.jpeg',
+        img:'/img/Pratham.jpeg',
         course: 'CSE DevOps'
     },
     {

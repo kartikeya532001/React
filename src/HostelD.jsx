@@ -1,65 +1,95 @@
 const HData = [
     {
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        link: '/Campushostel',
+        name: 'Campus Hostel',
+        img:'/img/UPES1.jpg',
+        price: 'UPES BHidoli',
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance:''
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
+    },
+
+    {
+        link: '/campusHostel.jsx',
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: 'Maggie Point',
+        
+    },
+
+    {
+        link: '/campusHostel.jsx',
+        name: 'Sankar Vila',
+        img:'/img/KNK.jpeg',
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
     },
     {
+        link: '/campusHostel.jsx',
         name: 'Sankar Vila',
         img:'/img/KNK.jpeg',
-        price: '5Km',
-        Distance: '5Km'
+        price: 'Maggie Point',
+        
     },
-    
+
+
+
+
+
+   
 ];
 
 export default HData;
