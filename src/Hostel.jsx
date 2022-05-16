@@ -9,7 +9,7 @@ function Hostel (props) {
     return(
         <>
       
-        <Link to = '/Campushostel'>
+        <Link to = {props.link}>
         <div className='hcards'>
             <div className='hcard'>
                 <img src = {props.img} alt='pic1' className='hcard_img' />

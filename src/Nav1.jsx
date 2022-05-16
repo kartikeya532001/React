@@ -3,13 +3,13 @@ import { Link } from 'react-router-dom';
 import { NavLink } from 'react-router-dom';
 import About from './About';
 import Home from './Home';
-import './Nav.css';
+import './Nav1.css';
 
 
-function Nav() {
+function Nav1() {
     return (
    <>
-     <div className='NavBar'>
+     <div className='NavBar1'>
      <br />
         <NavLink  exact to="/" aria-current="page" > Home </NavLink>
         <NavLink exact to="/about" aria-current="page"> About </NavLink>
@@ -22,4 +22,4 @@ function Nav() {
     );
   }
   
-  export default Nav;
+  export default Nav1;

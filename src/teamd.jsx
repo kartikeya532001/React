@@ -6,7 +6,7 @@ const Data = [
     },
     {
         name: 'Tanmay Kanwar',
-        img:'/img/KNK.jpeg',
+        img:'/img/Tanmay.webp',
         course: 'CSE DevOps'
     },
     {

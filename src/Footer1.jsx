@@ -1,11 +1,11 @@
 import React from 'react';
-import './Nav.css';
+import './Nav1.css';
 
 
-function Footer() {
+function Footer1() {
     return (
    <>
-     <div className='Footer'>
+     <div className='Footer1'>
      <br />
     <p>COPYRIGHT © GROUP NO 8. ALL RIGHTS RESERVED</p>
      </div>
@@ -13,4 +13,4 @@ function Footer() {
     );
   }
   
-  export default Footer;
+  export default Footer1;

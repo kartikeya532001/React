@@ -6,84 +6,64 @@ const HData = [
         price: 'UPES BHidoli',
     },
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/Zenith',
+        name: 'Zenith',
+        img:'/img/4.jpeg',
+        price: 'Sai Mandir',
         
     },
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/YouthGems',
+        name: 'YouthGems',
+        img:'/img/7.jpeg',
+        price: 'Ponda',
         
     },
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/WoodStock',
+        name: 'WoodStock',
+        img:'/img/10.jpeg',
+        price: 'Bhidohli',
         
     },
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/Ashiyana',
+        name: 'Ashiyana',
+        img:'/img/13.jpeg',
+        price: 'Ponda',
         
     },
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/DoonSchoolar',
+        name: 'DoonSchoolar',
+        img:'/img/16.jpeg',
+        price: 'Sai Mandir',
         
     },
 
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/Stanza',
+        name: 'Stanza',
+        img:'/img/19.jpeg',
+        price: 'Upper kandoli',
         
     },
 
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/Agrasein',
+        name: 'Agrasein',
+        img:'/img/15.jpeg',
+        price: 'Bhidohli',
         
     },
     {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
+        link: '/Jiya',
+        name: 'Jiya',
+        img:'/img/3.jpeg',
+        price: 'Upper Kandoli',
         
     },
-    {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
-        
-    },
-    {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
-        
-    },
-    {
-        link: '/campusHostel.jsx',
-        name: 'Sankar Vila',
-        img:'/img/KNK.jpeg',
-        price: 'Maggie Point',
-        
-    },
+ 
 
 
 

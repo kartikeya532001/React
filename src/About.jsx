@@ -8,10 +8,10 @@ function About () {
             </div>
             <div className='content'>
     <div className='para1'>
-      <p> Microsoft Technical Community was established in February 2018 with the vision of “Innovating, Inventing and Improvising” to educate fellow computer science enthusiasts about various aspects of the technical world. The goal was and is to create professionals out of amateurs and to teach not just Microsoft technologies but anything that is required for students to excel in their careers. We have come a long way since then, and still have many more goals to reach.</p>
+      <p>The COVID-19 has resulted in schools and colleges to shut all across the world. Globally, over 1.2 billion students are out of the classroom. As a result, education has changed dramatically, with the distinctive rise of e-learning, whereby teaching is undertaken remotely and on digital platforms. </p>
     </div>
     <div className='para2'>      
-      <p>Microsoft Technical Community only focuses on technical events and approaches them with complete professionalism. ‘Pathshala’ sessions, ‘Career Pathway’ sessions, ‘Buggymania’ and ‘Career Drive’ our main flagship event are just some of the events we conduct over a year with the sole purpose of creating better IT professionals. The team at Microsoft Technical Community is full of hard-working and professional individuals, who are always learning and teaching something new.</p>    
+      <p>In the wake of this global atrocity our team has worked upon one of the major challenges that students faced after covid-19 was over i.e. booking of hostel online as we know students faced a lot of difficulties finding right room and right facilities for them so that they can avail for but because of some government restrictions students weren’t able to go that is why the need is to create a platform so that students are able to see and rent rooms through an online portal. </p>    
     </div>
     </div>
     

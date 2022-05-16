@@ -11,6 +11,7 @@ import Data from './teamd';
 function HomePage() {
     return (
         <>
+        <Nav />
             <Home />
             <About />
 
@@ -37,6 +38,7 @@ function HomePage() {
                     price={dat.price}
                 />
             ))}
+            <Footer />
         </>
     );
 }

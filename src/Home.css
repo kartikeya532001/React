@@ -65,13 +65,15 @@
 
   .about h1 {
     margin-top: 2%;
-      color: red;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      font-size: 50px;
-      font-weight: 500;
-      margin-bottom: 1%;
+    left: 73%;
+    position: relative;
+    font-size: 50px;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-style: bold;
+    margin-bottom: 1%;
   }
   .content .para1 { 
     width: 45%;

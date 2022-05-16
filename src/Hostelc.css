@@ -1,0 +1,186 @@
+.Main {
+    margin-left: 2%;
+}
+
+.dis {
+    display: flex;
+    margin-top: 2%;
+    max-height: 500px;
+}
+
+.img {
+    width: 40%;
+    min-height: 500px;
+    max-height: 500px;
+}
+
+.img1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.image {
+    width: 30%;
+    margin-left: 0.5%;
+    min-height: 490px;
+    max-height: 490px;
+}
+
+.img2 {
+    width: 100%;
+    height: 248px;
+    border-radius: 10px;
+}
+
+.prices {
+    margin-left: 5%;
+    width: 30%;
+    max-height: 500px;
+}
+
+.hcards1 {
+    width: 100%;
+    max-height: 500px;
+}
+
+.btn {  
+    font-size: large;
+    margin-left: 24%;  
+    margin-top: 3%;
+}
+
+.hcard1 {
+    margin: 0%;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: lightblue;
+    width: 70%;
+    padding-left: 15%;
+    height: 260px;
+    border-radius: 12px;
+    box-shadow: 12px;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
+  
+}
+
+
+.hcard1 h1 {
+    padding-left: 25%;
+}
+
+.hcard1 p {
+    font-size: 18px;
+}
+
+
+
+.hcard1:hover {
+    box-shadow: 0px 30px 17 px -8px rgba(0, 0, 0, 0.1);
+    transform: scale(1.05, 1.05);
+}
+
+
+.hcard_info1 {
+    
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    
+    background-color: red;
+    box-shadow: 5px;
+
+}
+
+.hcard_category1 {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-top: 10%;
+    margin-left: 0%;
+    min-height: 50px;
+    max-height: 50px;
+    font-weight: 800;
+    color: black;
+    background-color: #fff;
+}
+
+.hcard_category1 button {
+    margin-left: 0%;
+    font-size: 20px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.map {
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.ContactDetails {
+    margin-top: 2%;
+}
+
+.mf {
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-left: 2%;
+    margin-top: 0.3%;
+    width: 90%;
+}
+
+.f1 {
+    width: 50%;
+
+}
+
+.f1 li {
+    margin-left: 10%;
+}
+
+.f2 {
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 6%;
+}
+
+.form {
+    width: 50%;
+}
+
+.policies h1 {
+    margin-top: 1%;
+}
+
+.policies h3 {
+    margin-top: 0.2%;
+    color: #333333;
+}
+
+.policies p {
+    margin-top: 0.2%;
+    color: #333333;
+}
+
+.aboutc {
+    width: 50%;
+    line-height: 1.2;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.abo {
+    display: flex;
+    width: 60%;
+
+}
+
+.about {
+    width: 40%;
+    line-height: 1.2;
+}
+
+.mar {
+    margin-top: 45%;
+}

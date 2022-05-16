@@ -23,18 +23,15 @@
   color: black;
 }
 
-.NavBar a.active {
-  background-color: #2d077e;
-  color: white;
-}
+
 
 .Footer {
-  margin-top: 132%;
+  margin-top: 100%;
   width: 100%;
-  height: 120px;
+  height: 80px;
   background-color: black;
   color: #377bba;
   text-align: center;
-  font-size: 40px;
+  font-size: 0px;
   font-weight: 500;
 }

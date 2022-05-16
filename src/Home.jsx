@@ -9,7 +9,7 @@ function Home () {
             <p>Minor 2 Project <br></br> <br></br>by<br></br> <br></br>GROUP NO 8</p>
 
             <div className='static'>
-            Hostels Management System
+            Hostel Management System
             </div>
             <div className='dyanmic'>
             <ul>

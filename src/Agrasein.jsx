@@ -2,41 +2,43 @@ import React from 'react';
 import './Hostelc.css';
 import './Hostel.css';
 import Forms from './Forms';
+import { Wrapper, Status } from "@googlemaps/react-wrapper";
 import Footer1 from './Footer1';
 import Nav1 from './Nav1';
 import { Link } from 'react-router-dom';
 
-function Zenith() {
+
+function Agrasein() {
     return (
         <>
             <Nav1 />
             <div className='Main'>
                 <div className='dis'>
                     <div className='img'>
-                        <img src='/img/4.jpeg' alt='pic1' className='img1' />
+                        <img src='/img/15.jpeg' alt='pic1' className='img1' />
                     </div>
                     <div className='image'>
-                        <img src='/img/3.jpeg' alt='pic1' className='img2' />
+                        <img src='/img/9.jpeg' alt='pic1' className='img2' />
                         <div className='image2'>
-                            <img src='/img/2.jpeg' alt='pic1' className='img2' />
+                            <img src='/img/11.jpeg' alt='pic1' className='img2' />
                         </div>
 
                     </div>
                     <div className='prices'>
                         <div>
-                            
+                            <div className='hcards1'>
                                 <div className='hcard1'>
-                                    <h1> Prices </h1>
+                                    <h1 > Prices </h1>
                                     <p>
-                                        <br /> Triple Sharing Room with <br/> Common Washroom: 1,350,000/- <br />
-                                        <br /> Triple Sharing Room with <br/> Attached Washroom: 1,50,000/- <br />
-                                        <br /> Triple Sharing AC Room with <br/> Attached Washroom: 1,70,000/-<br />
+                                        <br /> Triple Sharing Room with Common Washroom: 1,80,000/- <br />
+                                        <br /> Triple Sharing Room with Attached Washroom: 1,90,000/- <br />
+                                        <br /> Triple Sharing AC Room with Attached Washroom: 2,10,000/-<br />
                                     </p>
                                    
                                     <Link to='/BookF' ><button className='btn'>Book Now</button> </Link>
                                       
                                 </div>
-                            
+                            </div>
                         </div>
                         <div className='map'>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3440.8288998855583!2d77.96897231493796!3d30.412595981749803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908d48979bd5417%3A0xccaff1efd39379cd!2sBoys%20hostel%20Near%20UPES%20Dehradun!5e0!3m2!1sen!2sin!4v1652688430718!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -44,9 +46,9 @@ function Zenith() {
                     </div>
                 </div>
                 <div className='policies'>
-                    <h1> Zenith </h1>
-                    <h3> Sai Mandir, Bidholi,Dehradun,Uttarakhand 248001</h3>
-                    <p> Rating: ⭐⭐⭐⭐</p>
+                    <h1> Agrasein </h1>
+                    <h3> Bidholi,Dehradun,Uttarakhand 248001</h3>
+                    <p> Rating: ⭐⭐⭐</p>
                 </div>
                 <div className='ContactDetails'>
 
@@ -62,7 +64,7 @@ function Zenith() {
                                 </ul>
                                 <h2> Rating </h2>
                                 <ul type='none'>
-                                    <li>Food: ⭐⭐⭐</li>
+                                    <li>Food: ⭐⭐</li>
                                     <li>Infrastructure: ⭐⭐⭐</li>
                                     <li>Hygiene: ⭐⭐⭐</li>
                                 </ul>
@@ -106,6 +108,6 @@ function Zenith() {
     );
 }
 
-export default Zenith;
+export default Agrasein;
 
 
