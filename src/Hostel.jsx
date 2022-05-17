@@ -17,6 +17,7 @@ function Hostel (props) {
                     <span className='hcard_category'>{props.name}</span>
                     <h3 className='hcard_title'> {props.price} </h3>
                    
+                   
                 </div>
             </div>
         </div>

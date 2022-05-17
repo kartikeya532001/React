@@ -16,7 +16,7 @@ const Data = [
     },
     {
         name: 'Abhinav Gupta',
-        img:'/img/KNK.jpeg',
+        img:'/img/Abhinav.jpg',
         course: 'CSE CSF'
     },
 ];

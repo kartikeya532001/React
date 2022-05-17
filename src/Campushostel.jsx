@@ -89,7 +89,7 @@ function Campushostel() {
                         </div>
                         <div className='about'>
                             <h2> About </h2>
-                            <p>In the wake of this global atrocity our team has worked upon one of the major challenges that students faced after covid-19 was over i.e. booking of hostel online as we know students faced a lot of difficulties finding right room and right facilities for them so that they can avail for but because of some government restrictions students weren’t able to go that is why the need is to create a platform so that students are able to see and rent rooms through an online portal. </p>
+                            <p>Beautiful campus hostel with hills in the background, providing your ward with a engrossed and contented environment for studies as well as enjoying the beauty of nature. Campus Hostel is located inside UPES bidholi campus to ensure security and comfort of students. It also makes easy for students to approach to all campus facilities like gym, outdoor sports, indoor sports and so on. Along with security and discipline, campus hostel is the best option for UPES students. </p>
                         </div>
                     </div>
 
