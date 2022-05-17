@@ -6,8 +6,8 @@ function Footer() {
     return (
    <>
      <div className='Footer'>
-     <br />
-    <p>COPYRIGHT © GROUP NO 8. ALL RIGHTS RESERVED</p>
+    <br />
+    <p> COPYRIGHT © GROUP NO 8. ALL RIGHTS RESERVED </p>
      </div>
    </>
     );

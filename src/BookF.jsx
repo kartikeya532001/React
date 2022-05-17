@@ -75,17 +75,12 @@ function BookF(){
         else{
             window.alert("Enter the transaction ID");
         }
-            // fetch('',{
-            //     method: 'POST',
-            //     body: 
-            // })
         }
     return(
         <div id='formsComplete'>
             <div id='forms1'>
                 <h1 className='form-heading1'>Book Hostel</h1>
                 <p className='form-content'></p>
-                {/* <p>Hello {inputData.name} {inputData.email} {inputData.password} {inputData.conPassword}</p> */}
                 <form className='form1' onSubmit={onSubmits}>
                     <input type = 'text' placeholder='Enter your name' name='name' onChange={inputEvent}></input><br />
                     <input type = 'email' placeholder="Enter you email" name='email' onChange={inputEvent}></input><br />
